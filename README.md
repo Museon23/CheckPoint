@@ -1,2 +1,2 @@
 # CheckPoint
-Collection of Check Point information and CLI commands
+# Collection of Check Point information and CLI commands
